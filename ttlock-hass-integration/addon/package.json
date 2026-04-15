@@ -30,7 +30,7 @@
   "dependencies": {
     "async-mqtt": "^2.6.1",
     "express": "^4.17.1",
-    "ttlock-sdk-js": "../ttlock-sdk-js",
+    "ttlock-sdk-js": "@mattcee233/ttlock-sdk-js",
     "ws": "^7.4.2"
   },
   "devDependencies": {
