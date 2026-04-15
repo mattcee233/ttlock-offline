@@ -8,7 +8,6 @@
   "startup": "application",
   "boot": "auto",
   "homeassistant_api": true,
-  "hassio_api": true,
   "host_network": true,
   "host_dbus": true,
   "auth_api": true,

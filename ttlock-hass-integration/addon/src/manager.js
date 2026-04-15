@@ -61,7 +61,7 @@ class Manager extends EventEmitter {
         let clientOptions = {}
 
         if (this.gateway == "noble") {
-          clientOptions.scannerType = "noble-websocket";
+          clientOptions.scannerType = "gateway-websocket";
           clientOptions.scannerOptions = {
             websocketHost: this.gateway_host,
             websocketPort: this.gateway_port,

@@ -5,7 +5,7 @@
 Feeling generous and want to support my work, here is [my PayPal link](https://paypal.me/mattcee233).
 
 ## Requirements
-- Bluetooth adapter compatible with [@abandonware/noble](https://github.com/abandonware/noble)
+- Bluetooth adapter compatible with [@stoprocent/noble](https://github.com/stoprocent/noble)
 - MQTT broker (optional but recommended if you want to report lock status in HA and use it for automations)
 
 ## Features
