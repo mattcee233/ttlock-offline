@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.5.0] - 2026-04-15
+- Adoption by new owner
+- updated addon BUILD FROM in DOCKERFILE for new homeassistant docker build process
+
 ## [0.4.11] - 2021-05-06
 - Bump SDK in attempt at fixing connect limbo
 

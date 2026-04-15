@@ -1,4 +1,4 @@
-# ttlock-hass-integration
+# ttlock-offline
 
 > **Unfortunately I am unable to maintain the project at the moment**. There are multiple variations of TTLocks that behave differently, also BLE communication is very unstable making things very difficult.  
 
@@ -10,7 +10,7 @@
 - Lock / unlock  
 - HA integration as a `lock` device
 
-Please see [ttlock-hass-integration/README.md](./ttlock-hass-integration/README.md) for more information.  
+Please see [ttlock-offline/README.md](./ttlock-offline/README.md) for more information.  
 
-To install add [https://github.com/kind3r/hass-addons](https://github.com/kind3r/hass-addons) to your **Supervisor** -> **Add-on Store** -> **Repositories**.  
+To install add [https://github.com/mattcee233/ttlock-offline](https://github.com/mattcee233/ttlock-offline) to your **Supervisor** -> **Add-on Store** -> **Repositories**.  
 
